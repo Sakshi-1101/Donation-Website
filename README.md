@@ -1,6 +1,6 @@
 # Donation-Website
 
-A simple website where __payment gateway__ is integrated.
+A simple website where __Payment Gateway__ is integrated.
 
 ## Features
 
@@ -17,4 +17,5 @@ A simple website where __payment gateway__ is integrated.
 
 **Payement Gateway:** RazorPay API
 
-## Deployed On: 
+### Deployed On :
+
