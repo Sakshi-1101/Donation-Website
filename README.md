@@ -22,10 +22,23 @@ A simple website where __Payment Gateway__ is integrated.
 ## Screenshots
 
 ### 1. Homepage
-<!-- <img src =  ""  /> -->
+<img src =  "Screenshots/Homepage.JPG"  />
+
 ### 2. About Us
+<img src =  "Screenshots/About Us.JPG"  />
+
 ### 3. Our Campaigns 
+<img src =  "Screenshots/Campaigns1.JPG"  />
+<img src =  "Screenshots/Campaigns2.JPG"  />
+
 ### 4. Donate
+<img src =  "Screenshots/Donate.JPG"  />
+
 ### 5. Payment Gateway
+<img src =  "Screenshots/Payment Gateway Page.JPG"  />
+<img src =  "Screenshots/Payment.JPG"  />
+<img src =  "Screenshots/Payment Verification.JPG"  />
+<img src =  "Screenshots/Payment Successful.JPG"  />
+<img src =  "Screenshots/Payment Confirmation Mail.JPG"  />
 
 
