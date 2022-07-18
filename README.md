@@ -17,7 +17,7 @@ A simple website where __Payment Gateway__ is integrated.
 
 **Payement Gateway:** RazorPay API
 
-### Deployed On :
+### Deployed On : https://donateforgoodcause.netlify.app/
 
 ## Screenshots
 
