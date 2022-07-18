@@ -19,3 +19,13 @@ A simple website where __Payment Gateway__ is integrated.
 
 ### Deployed On :
 
+## Screenshots
+
+### 1. Homepage
+<!-- <img src =  ""  /> -->
+### 2. About Us
+### 3. Our Campaigns 
+### 4. Donate
+### 5. Payment Gateway
+
+
